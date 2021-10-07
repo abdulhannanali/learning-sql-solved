@@ -1,0 +1,7 @@
+Exercise 4-2
+Which of the transaction IDs would be returned by the following filter conditions?
+account_id IN (101,103) AND NOT (txn_type_cd = 'DBT' OR amount > 100)
+
+Txn_id Txn_date Account_id Txn_type_cd Amount
+4 2005-02-24 103 CDT 55
+9 2005-02-27 101 CDT 75

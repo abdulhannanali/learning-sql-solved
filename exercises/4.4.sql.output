@@ -1,0 +1,3 @@
+cust_id	fed_id	cust_type_cd	address	city	state	postal_code	cust_id	fname	lname	birth_date
+1	111-11-1111	I	47 Mockingbird Ln	Lynnfield	MA	01940	1	James	Hadley	1972-04-22
+9	999-99-9999	I	29 Maple St	Newton	MA	02458	9	Richard	Farley	1968-06-16
