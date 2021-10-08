@@ -1,0 +1,6 @@
+mysql> SELECT e.emp_id, e.fname, e.lname, b.name
+-> FROM employee e INNER JOIN <1> b
+-> ON e.assigned_branch_id = b.<2>;
+
+<1> = branch
+<2> = branch_id

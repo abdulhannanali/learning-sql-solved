@@ -1,0 +1,20 @@
+account_id	fed_id	name	cust_type_cd
+1	111-11-1111	checking account	I
+2	111-11-1111	savings account	I
+3	111-11-1111	certificate of deposit	I
+4	222-22-2222	checking account	I
+5	222-22-2222	savings account	I
+7	333-33-3333	checking account	I
+8	333-33-3333	money market account	I
+10	444-44-4444	checking account	I
+11	444-44-4444	savings account	I
+12	444-44-4444	money market account	I
+13	555-55-5555	checking account	I
+14	666-66-6666	checking account	I
+15	666-66-6666	certificate of deposit	I
+17	777-77-7777	certificate of deposit	I
+18	888-88-8888	checking account	I
+19	888-88-8888	savings account	I
+21	999-99-9999	checking account	I
+22	999-99-9999	money market account	I
+23	999-99-9999	certificate of deposit	I
